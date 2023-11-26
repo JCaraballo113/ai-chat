@@ -1,4 +1,4 @@
-# PyGPT
+# AI-Chat
 
 A very simple chat application that allows a user to "chat" with ChatGPT in a conversational manner
 
